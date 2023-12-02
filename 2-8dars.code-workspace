@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../2-8dars"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3-2 dars",
+		"liveServer.settings.port": 5502
+	}
+}
